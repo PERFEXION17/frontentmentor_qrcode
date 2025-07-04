@@ -21,8 +21,8 @@ A solution to the FrontendMentor newbie challenge on the Progress Path.
 
 ### Screenshot
 
-![](assets/images/mobile_soln.png)
-![](assets/images/web_soln.png)
+![image of mobile solution](assets/images/mobile_soln.png)
+![image of web solution](assets/images/web_soln.png)
 
 
 ### Links
