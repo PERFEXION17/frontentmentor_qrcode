@@ -27,8 +27,7 @@ A solution to the FrontendMentor newbie challenge on the Progress Path.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://perfexion17.github.io/frontentmentor_qrcode/)
 
 ## My process
 
