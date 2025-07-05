@@ -28,7 +28,7 @@ body {
     background-color: var(--white);
     border-radius: 1.25rem;
     padding: 1rem;
-    box-shadow: 1px 1px 40px hsl(216, 15%, 48% 0.1);
+    box-shadow: 1px 1px 40px rgba(104, 119, 141, 0.1);
 }
 
 .qr img {
